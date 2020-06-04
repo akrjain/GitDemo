@@ -7,6 +7,8 @@ public class AppiumTest {
 	public void AndriodApp()
 	{
 		System.out.println("Method=AndriodApp");
+		System.out.println("Method=AndriodApp-Git1-New user");
+		System.out.println("Method=AndriodApp-Git2-New user");
 	}
 	
 	@Test
