@@ -7,6 +7,7 @@ public class SeleniumTest {
 	public void browserAutomation()
 	{
 		System.out.println("Method=browserAutomation");
+		System.out.println("Method=browserAutomation-Git Mod");
 	}
 	
 	@Test
